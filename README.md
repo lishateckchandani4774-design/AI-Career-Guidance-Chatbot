@@ -1,3 +1,4 @@
+
 # 🤖 AI Career Guidance Chatbot
 
 An AI-powered Career Guidance Chatbot built using **Python, Streamlit, NLP (TF-IDF), and Scikit-learn**. The application helps users discover suitable career paths, analyze skill gaps, explore learning resources, and receive personalized career recommendations.
@@ -42,6 +43,12 @@ AI-Career-Guidance-Chatbot/
 ├── career_data
 └── .gitignore
 ```
+ScreenShots
+<img width="2858" height="1534" alt="Home" src="https://github.com/user-attachments/assets/04d4971e-aa44-4b47-90d7-98898c7f7b30" />
+<img width="2856" height="1532" alt="Recomendation" src="https://github.com/user-attachments/assets/249b36c5-ec6e-4166-a942-1731fdc824de" />
+<img width="2862" height="1538" alt="Dashboard_2" src="https://github.com/user-attachments/assets/62f0c29f-66e6-4784-988b-a74143481c6b" />
+<img width="2860" height="1530" alt="Dashboard" src="https://github.com/user-attachments/assets/b21465e1-d739-4e43-a25a-496e958d761b" />
+
 
 ---
 
