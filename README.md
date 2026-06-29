@@ -39,7 +39,7 @@ AI-Career-Guidance-Chatbot/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── assets/
+├── career_data
 └── .gitignore
 ```
 
