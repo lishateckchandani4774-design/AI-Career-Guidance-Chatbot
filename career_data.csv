@@ -1,0 +1,75 @@
+career_data = {
+    "Career": [
+        "Data Scientist",
+        "AI Engineer",
+        "Data Analyst",
+        "Software Developer",
+        "Cyber Security Analyst",
+        "Cloud Engineer",
+        "Machine Learning Engineer",
+        "Full Stack Developer",
+        "Frontend Developer",
+        "Backend Developer",
+        "DevOps Engineer",
+        "Database Administrator"
+    ],
+
+    "Description": [
+        "python machine learning statistics data science analytics",
+        "artificial intelligence deep learning nlp neural networks",
+        "excel sql dashboards power bi business analytics",
+        "java dsa software development programming applications",
+        "networking linux cyber security ethical hacking",
+        "aws cloud computing docker devops linux",
+        "machine learning python tensorflow ai models",
+        "html css javascript react nodejs",
+        "html css javascript react ui ux",
+        "python java api database backend",
+        "docker kubernetes aws linux ci cd",
+        "sql database mysql postgresql data management"
+    ],
+
+    "Skills": [
+        "Python, Machine Learning, Statistics",
+        "Python, Deep Learning, NLP",
+        "Excel, SQL, Power BI",
+        "Java, DSA, DBMS",
+        "Networking, Linux, Security",
+        "AWS, Linux, Docker","Python, TensorFlow, Machine Learning",
+        "HTML, CSS, JavaScript, React",
+        "HTML, CSS, JavaScript, React",
+        "Python, Java, SQL",
+        "Docker, AWS, Linux",
+        "SQL, MySQL, PostgreSQL"
+    ],
+
+    "Roadmap": [
+        "Python → ML → Projects → Internship",
+        "Python → Deep Learning → NLP → AI Projects",
+        "Excel → SQL → Power BI",
+        "Programming → DSA → Projects",
+        "Networking → Linux → Security Labs",
+        "Linux → AWS → Cloud Projects", 
+        "Python → ML → TensorFlow → Projects",
+        "HTML → CSS → JS → React",
+        "HTML → CSS → JS → UI Projects",
+        "Programming → APIs → Databases",
+        "Linux → Docker → AWS",
+        "SQL → Databases → Administration"
+    ],
+
+    "Salary": [
+        "8-20 LPA",
+        "10-25 LPA",
+        "5-12 LPA",
+        "6-18 LPA",
+        "6-15 LPA",
+        "7-18 LPA",
+        "10-22 LPA",
+        "6-18 LPA",
+        "5-15 LPA",
+        "6-18 LPA",
+        "8-20 LPA",
+        "6-16 LPA"
+    ]
+}
