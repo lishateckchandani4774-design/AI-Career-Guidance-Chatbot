@@ -67,19 +67,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots inside the `assets` folder and update this section.
-
-Example:
-
-- Home Page
-- Career Recommendation
-- Dashboard
-- Skill Gap Analysis
-
----
-
 ## 🔮 Future Enhancements
 
 - Resume Upload Support
